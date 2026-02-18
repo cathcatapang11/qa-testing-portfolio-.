@@ -1,5 +1,5 @@
-# qa-testing-portfolio-.# QA Tester Portfolio | [Your Full Name]
-> **Manual Testing | UAT Specialist | Agile Methodology**
+# QA Tester Portfolio | Catherine Catapang
+> **Manual Testing | UAT Specialist**
 
 ---
 
@@ -20,7 +20,7 @@ Detail-oriented Quality Assurance (QA) Tester with hands-on experience in manual
 
 ## 🚀 Project Experience
 
-### 1. Web-Based Business Management System
+### 1. Web-Based Utility Management System
 **Role:** QA Tester | **Platform:** Web  
 * **Key Responsibilities:** Analyzed requirements, created detailed test cases, and performed full-cycle functional and regression testing.
 * **UAT Leadership:** Conducted UAT sessions directly with clients to validate business workflows.
@@ -48,6 +48,6 @@ I specialize in bridging the gap between technical development and client expect
 ---
 
 ## 📩 Contact Me
-* **LinkedIn:** [Insert your LinkedIn Link Here]
-* **Email:** [Insert your Email Here]
+
+* **Email:** cathcatapang11@gmail.com
 * **Availability:** Open to Remote & Flexible roles.
