@@ -44,7 +44,7 @@ I specialize in bridging the gap between technical development and client expect
 ---
 
 ## 📈 Testing Process Overview
-1. **Requirement Analysis** ➔ 2. **Test Planning** ➔ 3. **Test Case Development** ➔ 4. **Execution** ➔ 5. **Defect Reporting** ➔ 6. **UAT** ➔ 7. **Release Validation**
+1. **Requirement Analysis** ➔ 2. **Test Planning** ➔ 3. **Test Case Development** ➔ 4. **Execution** ➔ 5. **Defect Reporting** ➔ 6. **UAT** ➔ 7. **Release Validation** ➔ 7. **Go live or Production**
 
 ---
 
