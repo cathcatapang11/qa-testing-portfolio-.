@@ -20,7 +20,8 @@ Detail-oriented Quality Assurance (QA) Tester with hands-on experience in manual
 
 ## 🚀 Project Experience
 
-### 1. Web-Based Utility Management System
+### 1. Web-Based Utility Management System - Utility Solutions Industries 
+| **Projects** | Manila water, MORE Electric and Power Corporation, Ileco III Cooperative, Inc, Metro Lipa Water Disctrict, Negros Electric and Power Corp, Bayawan Water District, Camiguin Water District |
 **Role:** QA Tester | **Platform:** Web  
 * **Key Responsibilities:** Analyzed requirements, created detailed test cases, and performed full-cycle functional and regression testing.
 * **UAT Leadership:** Conducted UAT sessions directly with clients to validate business workflows.
